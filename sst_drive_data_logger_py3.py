@@ -119,7 +119,7 @@ class DriveDataToTerminal:
         """
         vendor_site = serialNumber[0:2]  # VS
         product_identifier = serialNumber[2:4]  # PP
-        week_year_day = serialNumber[4:8]  # YWWD
+        year_workweek_day = serialNumber[4:8]  # YWWD
         counter = serialNumber[8:12]  # SSSS
         drives_capacity = serialNumber[12:15]  # NNN
         form_factor = serialNumber[15]  # F
@@ -127,7 +127,7 @@ class DriveDataToTerminal:
         highlighted_serial_number = (
             vendor_site +
             product_identifier +
-            self.text.fgRed_bgDefault_bold + week_year_day + self.text.reset +
+            self.text.fgRed_bgDefault_bold + year_workweek_day + self.text.reset +
             self.text.fgCyan_bgDefault_bold + counter + self.text.reset +
             drives_capacity +
             form_factor +
