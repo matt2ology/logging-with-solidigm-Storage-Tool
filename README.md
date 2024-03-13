@@ -4,11 +4,6 @@ This script is develop as an extra validation step for the project
 
 Link to SST User Guide (listed under "Documents"): <https://www.solidigm.com/support-page/drivers-downloads/ka-00085.html>
 
-Comments, questions, concerns:
-
-- Matthew Mendoza, <matthew.mendoza@solidigm.com>
-- Silvana Huynh, <silvana.huynh@solidigm.com>
-
 ## Set-up
 
 1. Have Solidigm Storage Tool (SST) installed: [link to SST download page](https://www.solidigm.com/support-page/drivers-downloads/ka-00085.html)
