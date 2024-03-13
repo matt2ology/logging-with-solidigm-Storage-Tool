@@ -1,0 +1,60 @@
+{
+        "PHYG8126001E1P9DGN": {
+                "Capacity": "1.92 TB (1,920,383,410,176 bytes)",
+                "DevicePath": "\\\\.\\PHYSICALDRIVE0",
+                "DeviceStatus": "Healthy",
+                "Firmware": "XCV10013",
+                "FirmwareUpdateAvailable": "The selected drive contains current firmware as of this tool release.",
+                "Index": 0,
+                "MaximumLBA": 3750748847,
+                "ModelNumber": "INTEL SSDSC2KG019T8",
+                "PercentOverProvisioned": 100.00,
+                "ProductFamily": "Intel SSD DC S4610 Series",
+                "SMARTEnabled": true,
+                "SectorDataSize": 512,
+                "SerialNumber": "PHYG8126001E1P9DGN"
+        },
+        "PHYG8135002L1P9DGN": {
+                "Capacity": "1.92 TB (1,920,383,410,176 bytes)",
+                "DevicePath": "\\\\.\\PHYSICALDRIVE1",
+                "DeviceStatus": "Healthy",
+                "Firmware": "XCV10165",
+                "FirmwareUpdateAvailable": "The selected drive contains current firmware as of this tool release.",
+                "Index": 1,
+                "MaximumLBA": 3750748847,
+                "ModelNumber": "INTEL SSDSC2KG019T8",
+                "PercentOverProvisioned": 100.00,
+                "ProductFamily": "Intel SSD DC S4610 Series",
+                "SMARTEnabled": true,
+                "SectorDataSize": 512,
+                "SerialNumber": "PHYG8135002L1P9DGN"
+        },
+        "PHYG813500251P9DGN": {
+                "Capacity": "1.92 TB (1,920,383,410,176 bytes)",
+                "DevicePath": "\\\\.\\PHYSICALDRIVE2",
+                "DeviceStatus": "Healthy",
+                "Firmware": "XCV10165",
+                "FirmwareUpdateAvailable": "The selected drive contains current firmware as of this tool release.",
+                "Index": 2,
+                "MaximumLBA": 3750748847,
+                "ModelNumber": "INTEL SSDSC2KG019T8",
+                "PercentOverProvisioned": 100.00,
+                "ProductFamily": "Intel SSD DC S4610 Series",
+                "SMARTEnabled": true,
+                "SectorDataSize": 512,
+                "SerialNumber": "PHYG813500251P9DGN"
+        },
+        "21314E804991": {
+                "Capacity": "500.11 GB (500,107,862,016 bytes)",
+                "DevicePath": "\\\\.\\PHYSICALDRIVE3",
+                "DeviceStatus": "Unknown",
+                "Firmware": "111130WD",
+                "FirmwareUpdateAvailable": "The selected drive contains current firmware as of this tool release.",
+                "Index": 3,
+                "MaximumLBA": 976773167,
+                "ModelNumber": "WDS500G3X0C-00SJG0",
+                "PercentOverProvisioned": 100.00,
+                "SectorDataSize": 512,
+                "SerialNumber": "21314E804991"
+        }
+}
