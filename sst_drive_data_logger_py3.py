@@ -91,7 +91,7 @@ class DriveDataToTerminal:
             if drive_id == self.bootDrive.get_serial_number():
                 continue  # Skip this drive and go to the next iteration
 
-            print("Index:", drive_data["Index"], self.text.reset)
+            print("Index:", drive_data["Index"])
             print("Serial Number (SN):",
                   self._highlight_manufacturer_date_and_counter(
                       drive_data["SerialNumber"])
