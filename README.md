@@ -1,6 +1,6 @@
 # SST Drive Data Logger User Guide
 
-This script is develop as an extra validation step for the project
+Script to pull basic info on Intel/Solidigm and displays to the terminal and/or saves to a log file.
 
 Link to SST User Guide (listed under "Documents"): <https://www.solidigm.com/support-page/drivers-downloads/ka-00085.html>
 
